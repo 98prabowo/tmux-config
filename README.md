@@ -2,8 +2,6 @@
   <img src="assets/tmux.svg" width="40%">
 </p>
 
-# 🧰 Tmux Configuration
-
 A minimal yet functional `tmux` setup focused on **productivity**, **Vim-style navigation**, and a **clean gruvbox theme**.
 
 ## 📦 Features
