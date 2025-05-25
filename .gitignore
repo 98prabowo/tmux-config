@@ -1,0 +1,23 @@
+# MacOS Finder
+.DS_Store
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs (IntelliJ, PyCharm, etc.)
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Vim swap files
+*.swp
+*.swo
+*.swn
+
+# Neovim/backup files
+*.backup
+*.undo
+*.log
+
