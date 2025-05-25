@@ -2,8 +2,6 @@
 
 A minimal yet functional `tmux` setup focused on **productivity**, **Vim-style navigation**, and a **clean gruvbox theme**.
 
----
-
 ## 📦 Features
 
 - 🔁 Reload config with `<prefix> + r`
@@ -17,8 +15,6 @@ A minimal yet functional `tmux` setup focused on **productivity**, **Vim-style n
 - 🎨 Gruvbox theme with custom separators
 - 🔌 Plugin support via [TPM](https://github.com/tmux-plugins/tpm)
 
----
-
 ## 🎹 Keybindings
 
 | Action                    | Keybinding                 |
@@ -31,21 +27,15 @@ A minimal yet functional `tmux` setup focused on **productivity**, **Vim-style n
 | Move pane (Vim-style)     | `<prefix> + h / j / k / l` |
 | Next/Prev window          | `Shift + → / ←`            |
 
----
-
 ## 🎨 Theme
 
 This config uses [`tmux-gruvbox`](https://github.com/z3z1ma/tmux-gruvbox) with the **dark** variant and custom separators.
-
----
 
 ## ✅ Requirements
 
 - tmux ≥ 3.2
 - nerd fonts (for icons/separators)
 - Clipboard tool (e.g., pbcopy, xclip, or wl-copy)
-
----
 
 ## 🔌 Plugins
 
@@ -54,8 +44,6 @@ Managed with [TPM](https://github.com/tmux-plugins/tpm):
 - [`tmux-plugins/tpm`](https://github.com/tmux-plugins/tpm) — Plugin manager
 - [`christoomey/vim-tmux-navigator`](https://github.com/christoomey/vim-tmux-navigator) — Seamless Vim ↔ tmux navigation
 - [`z3z1ma/tmux-gruvbox`](https://github.com/z3z1ma/tmux-gruvbox) — Beautiful gruvbox status line
-
----
 
 ## 🚀 Installation
 
@@ -78,8 +66,6 @@ stow --target=$HOME config
 ```
 
 4. Restart Tmux and enjoy!
-
----
 
 ## 📄 License
 
