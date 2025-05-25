@@ -69,6 +69,10 @@ stow --target=$HOME config
 
 4. Restart Tmux and enjoy!
 
+```zsh
+<prefix> + I
+```
+
 ## 📸 Screenshot
 
 ![Screenshot](assets/tmux-bar.png)
