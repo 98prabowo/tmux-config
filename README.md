@@ -67,6 +67,10 @@ stow --target=$HOME config
 
 4. Restart Tmux and enjoy!
 
+## 📸 Screenshot
+
+![Screenshot](assets/tmux-bar.png)
+
 ## 📄 License
 
 MIT License. Feel free to use, fork, and modify.
