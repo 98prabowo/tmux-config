@@ -51,25 +51,25 @@ Managed with [TPM](https://github.com/tmux-plugins/tpm):
 
 1. Install Tmux:
 
-```sh
+```sh-session
 brew install tmux
 ```
 
 2. Clone TPM:
 
-```sh
+```sh-session
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
 3. Stow Tmux config file to $HOME directory:
 
-```sh
+```sh-session
 stow --target=$HOME config
 ```
 
 4. Restart Tmux and enjoy!
 
-```sh
+```sh-session
 <prefix> + I
 ```
 
