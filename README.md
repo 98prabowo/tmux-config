@@ -51,7 +51,7 @@ Managed with [TPM](https://github.com/tmux-plugins/tpm):
 
 1. Install Tmux:
 
-```zsh
+```sh
 brew install tmux
 ```
 
@@ -63,13 +63,13 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 3. Stow Tmux config file to $HOME directory:
 
-```zsh
+```sh
 stow --target=$HOME config
 ```
 
 4. Restart Tmux and enjoy!
 
-```zsh
+```sh
 <prefix> + I
 ```
 
