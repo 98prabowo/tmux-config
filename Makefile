@@ -9,6 +9,6 @@ unlink:
 	@stow --target=$(HOME) --delete config
 
 help:
-	@echo "Usage:"
+	@echo "📦 Usage:"
 	@echo "  make link   - Symlink config to $(HOME) using stow"
 	@echo "  make unlink - Remove symlinks from $(HOME) using stow --delete"
