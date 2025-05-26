@@ -61,10 +61,10 @@ brew install tmux
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-3. Stow Tmux config file to $HOME directory:
+3. Link Tmux config file to $HOME directory:
 
 ```sh-session
-stow --target=$HOME config
+make link
 ```
 
 4. Restart Tmux and enjoy!
